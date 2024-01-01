@@ -13,6 +13,9 @@ the purpose of this application is to keep track of tasks and time for user, it 
 -idle control timers (timer automatically stops when the user is idle)
 -app hotkeys
 
+the entire projects Java source code can be found here:
+https://github.com/Siqbals/Time-Tracker-Application/tree/main/cmpt-370-team-8-Dev/src/main/java/com/cmpt370/timetracker
+
 find below a demo video on the time tracker application (which includes installation and feature demo)
 https://youtu.be/W8w9X0Xk6Ng
 
